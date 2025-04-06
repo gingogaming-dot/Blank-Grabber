@@ -8,7 +8,6 @@ import ast
 import webbrowser
 import random
 import string
-from Components.akontop import *
 import customtkinter as ctk
 from tkinter import messagebox, filedialog
 from pkg_resources import parse_version
